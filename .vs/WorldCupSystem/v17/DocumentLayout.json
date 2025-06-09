@@ -15,107 +15,107 @@
       "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\worldcup\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\worldcup\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\helpers\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\services\\worldcupapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\services\\worldcupapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\services\\worldcupapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\services\\apidataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\services\\apidataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\services\\apidataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\factory\\worldcupservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\factory\\worldcupservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\factory\\worldcupservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\interfaces\\iworldcupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\interfaces\\iworldcupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\interfaces\\iworldcupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\services\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\enums\\datasourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\enums\\datasourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\enums\\datasourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\enums\\matchenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\enums\\matchenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\enums\\matchenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\groupresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\groupresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\groupresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\serialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\helpers\\serialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\serialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\helpers\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\jsonconverters\\descriptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\helpers\\jsonconverters\\descriptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\jsonconverters\\descriptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\teamstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\teamstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\teamstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\teamevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\teamevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\teamevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\teamdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\teamdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\teamdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\startingeleven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\startingeleven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\startingeleven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\orderedteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\models\\orderedteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\orderedteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\datalayer\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\config\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -159,8 +159,7 @@
               "RelativeToolTip": "WorldCup\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:49:50.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:49:50.658Z"
             },
             {
               "$type": "Document",
@@ -183,8 +182,7 @@
               "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\ConfigForm.cs [Design]",
               "RelativeToolTip": "WorldCup\\ConfigForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:39:06.001Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-05T13:39:06.001Z"
             },
             {
               "$type": "Document",
@@ -196,8 +194,7 @@
               "RelativeToolTip": "DataLayer\\Helpers\\ConfigManager.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAawBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:35:53.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:35:53.301Z"
             },
             {
               "$type": "Document",
@@ -209,8 +206,7 @@
               "RelativeToolTip": "DataLayer\\Models\\AppSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:33:53.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:33:53.447Z"
             },
             {
               "$type": "Document",
@@ -222,8 +218,7 @@
               "RelativeToolTip": "DataLayer\\Factory\\WorldCupServiceFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:27:41.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:27:41.117Z"
             },
             {
               "$type": "Document",
@@ -235,8 +230,7 @@
               "RelativeToolTip": "DataLayer\\Services\\WorldCupApiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:24:37.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:24:37.87Z"
             },
             {
               "$type": "Document",
@@ -248,8 +242,7 @@
               "RelativeToolTip": "DataLayer\\Interfaces\\IWorldCupService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:23:15.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:23:15.205Z"
             },
             {
               "$type": "Document",
@@ -261,8 +254,7 @@
               "RelativeToolTip": "DataLayer\\Services\\ApiDataService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAawCkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:01:17.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:01:17.686Z"
             },
             {
               "$type": "Document",
@@ -274,8 +266,7 @@
               "RelativeToolTip": "DataLayer\\Enums\\DataSourceType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:54:48.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:54:48.801Z"
             },
             {
               "$type": "Document",
@@ -287,8 +278,7 @@
               "RelativeToolTip": "DataLayer\\Helpers\\ConfigHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:51:35.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:51:35.155Z"
             },
             {
               "$type": "Document",
@@ -300,8 +290,7 @@
               "RelativeToolTip": "DataLayer\\Enums\\MatchEnums.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:54:51.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:54:51.761Z"
             },
             {
               "$type": "Document",
@@ -313,8 +302,7 @@
               "RelativeToolTip": "DataLayer\\Services\\JsonDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:53:25.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:53:25.916Z"
             },
             {
               "$type": "Document",
@@ -326,8 +314,7 @@
               "RelativeToolTip": "DataLayer\\Interfaces\\IDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:53:28.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:53:28.319Z"
             },
             {
               "$type": "Document",
@@ -339,8 +326,7 @@
               "RelativeToolTip": "DataLayer\\Models\\GroupResults.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:34.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:34.45Z"
             },
             {
               "$type": "Document",
@@ -352,8 +338,7 @@
               "RelativeToolTip": "DataLayer\\Models\\Matches.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:33.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:33.369Z"
             },
             {
               "$type": "Document",
@@ -365,8 +350,7 @@
               "RelativeToolTip": "DataLayer\\Helpers\\Serialize.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:03:04.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:03:04.161Z"
             },
             {
               "$type": "Document",
@@ -378,8 +362,7 @@
               "RelativeToolTip": "DataLayer\\Helpers\\Converter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:02:59.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:02:59.528Z"
             },
             {
               "$type": "Document",
@@ -391,8 +374,7 @@
               "RelativeToolTip": "DataLayer\\Helpers\\JsonConverters\\DescriptionConverter.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:01:52.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:01:52.596Z"
             },
             {
               "$type": "Document",
@@ -404,8 +386,7 @@
               "RelativeToolTip": "DataLayer\\Models\\Weather.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:51.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:51.081Z"
             },
             {
               "$type": "Document",
@@ -417,8 +398,7 @@
               "RelativeToolTip": "DataLayer\\Models\\TeamStatistics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:50.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:50.247Z"
             },
             {
               "$type": "Document",
@@ -430,8 +410,7 @@
               "RelativeToolTip": "DataLayer\\Models\\TeamEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:49.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:49.412Z"
             },
             {
               "$type": "Document",
@@ -443,8 +422,7 @@
               "RelativeToolTip": "DataLayer\\Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:45.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:45.564Z"
             },
             {
               "$type": "Document",
@@ -456,8 +434,7 @@
               "RelativeToolTip": "DataLayer\\Models\\StartingEleven.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:44.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:44.707Z"
             },
             {
               "$type": "Document",
@@ -469,8 +446,7 @@
               "RelativeToolTip": "DataLayer\\Models\\Results.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:41.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:41.638Z"
             },
             {
               "$type": "Document",
@@ -482,8 +458,7 @@
               "RelativeToolTip": "DataLayer\\Models\\OrderedTeam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:58:40.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:58:40.025Z"
             },
             {
               "$type": "Document",
@@ -495,8 +470,7 @@
               "RelativeToolTip": "DataLayer\\Models\\TeamDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:56:07.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:56:07.836Z"
             },
             {
               "$type": "Document",
@@ -508,8 +482,7 @@
               "RelativeToolTip": "DataLayer\\Config\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T12:52:40.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:52:40.635Z"
             }
           ]
         }

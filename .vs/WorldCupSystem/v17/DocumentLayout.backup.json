@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\worldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\worldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\worldcup\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{0F9CDB61-C964-43CA-BC26-953C09E30FDD}|WorldCup\\WorldCup.csproj|solutionrelative:worldcup\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\helpers\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}|DataLayer\\DataLayer.csproj|c:\\users\\ozdog\\source\\projects\\worldcupsystem\\datalayer\\helpers\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,12 +138,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs",
               "RelativeDocumentMoniker": "WorldCup\\MainPage.cs",
-              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs*",
-              "RelativeToolTip": "WorldCup\\MainPage.cs*",
+              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs",
+              "RelativeToolTip": "WorldCup\\MainPage.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T17:11:14.287Z",
@@ -160,31 +152,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\Player.cs",
-              "RelativeDocumentMoniker": "WorldCup\\Player.cs",
-              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\Player.cs",
-              "RelativeToolTip": "WorldCup\\Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T16:53:07.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\Player.cs",
-              "RelativeDocumentMoniker": "WorldCup\\Player.cs",
-              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\Player.cs [Design]",
-              "RelativeToolTip": "WorldCup\\Player.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T15:11:35.376Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\Program.cs",
               "RelativeDocumentMoniker": "WorldCup\\Program.cs",
@@ -201,15 +168,15 @@
               "Title": "MainPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs",
               "RelativeDocumentMoniker": "WorldCup\\MainPage.cs",
-              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs [Design]*",
-              "RelativeToolTip": "WorldCup\\MainPage.cs [Design]*",
+              "ToolTip": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\MainPage.cs [Design]",
+              "RelativeToolTip": "WorldCup\\MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T14:43:02.073Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ConfigForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\WorldCup\\ConfigForm.cs",
               "RelativeDocumentMoniker": "WorldCup\\ConfigForm.cs",
@@ -221,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ConfigManager.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Helpers\\ConfigManager.cs",
               "RelativeDocumentMoniker": "DataLayer\\Helpers\\ConfigManager.cs",
@@ -234,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\AppSettings.cs",
@@ -247,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "WorldCupServiceFactory.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Factory\\WorldCupServiceFactory.cs",
               "RelativeDocumentMoniker": "DataLayer\\Factory\\WorldCupServiceFactory.cs",
@@ -260,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "WorldCupApiService.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Services\\WorldCupApiService.cs",
               "RelativeDocumentMoniker": "DataLayer\\Services\\WorldCupApiService.cs",
@@ -273,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "IWorldCupService.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Interfaces\\IWorldCupService.cs",
               "RelativeDocumentMoniker": "DataLayer\\Interfaces\\IWorldCupService.cs",
@@ -286,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "ApiDataService.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Services\\ApiDataService.cs",
               "RelativeDocumentMoniker": "DataLayer\\Services\\ApiDataService.cs",
@@ -299,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "DataSourceType.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Enums\\DataSourceType.cs",
               "RelativeDocumentMoniker": "DataLayer\\Enums\\DataSourceType.cs",
@@ -312,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ConfigHelper.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Helpers\\ConfigHelper.cs",
               "RelativeDocumentMoniker": "DataLayer\\Helpers\\ConfigHelper.cs",
@@ -325,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "MatchEnums.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Enums\\MatchEnums.cs",
               "RelativeDocumentMoniker": "DataLayer\\Enums\\MatchEnums.cs",
@@ -338,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "JsonDataService.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Services\\JsonDataService.cs",
               "RelativeDocumentMoniker": "DataLayer\\Services\\JsonDataService.cs",
@@ -351,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "IDataService.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Interfaces\\IDataService.cs",
               "RelativeDocumentMoniker": "DataLayer\\Interfaces\\IDataService.cs",
@@ -364,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "GroupResults.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\GroupResults.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\GroupResults.cs",
@@ -377,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Matches.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\Matches.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\Matches.cs",
@@ -390,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Serialize.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Helpers\\Serialize.cs",
               "RelativeDocumentMoniker": "DataLayer\\Helpers\\Serialize.cs",
@@ -403,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "Converter.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Helpers\\Converter.cs",
               "RelativeDocumentMoniker": "DataLayer\\Helpers\\Converter.cs",
@@ -416,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "DescriptionConverter.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Helpers\\JsonConverters\\DescriptionConverter.cs",
               "RelativeDocumentMoniker": "DataLayer\\Helpers\\JsonConverters\\DescriptionConverter.cs",
@@ -429,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "Weather.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\Weather.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\Weather.cs",
@@ -442,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "TeamStatistics.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\TeamStatistics.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\TeamStatistics.cs",
@@ -455,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "TeamEvent.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\TeamEvent.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\TeamEvent.cs",
@@ -468,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\Team.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\Team.cs",
@@ -481,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "StartingEleven.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\StartingEleven.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\StartingEleven.cs",
@@ -494,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "Results.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\Results.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\Results.cs",
@@ -507,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "OrderedTeam.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\OrderedTeam.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\OrderedTeam.cs",
@@ -520,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "TeamDetails.cs",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Models\\TeamDetails.cs",
               "RelativeDocumentMoniker": "DataLayer\\Models\\TeamDetails.cs",
@@ -533,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ozdog\\source\\projects\\WorldCupSystem\\DataLayer\\Config\\appsettings.json",
               "RelativeDocumentMoniker": "DataLayer\\Config\\appsettings.json",
