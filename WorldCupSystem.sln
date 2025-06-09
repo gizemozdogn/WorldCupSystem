@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCup", "WorldCup\WorldCup.csproj", "{0F9CDB61-C964-43CA-BC26-953C09E30FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3B6B03-173B-4AC0-94A6-8F5FBE391F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9CDB61-C964-43CA-BC26-953C09E30FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9CDB61-C964-43CA-BC26-953C09E30FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9CDB61-C964-43CA-BC26-953C09E30FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9CDB61-C964-43CA-BC26-953C09E30FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
